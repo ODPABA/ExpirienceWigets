@@ -1,6 +1,6 @@
 export default {
   _widgetLabel: 'Street View',
-  clickHint: 'Začnite kliknutím na mapu a umiestnite svoj bod.',
-  openInNewWindow: 'Otvoriť v novom okne',
+  clickHint: 'Kliknite na mapu pre otvorenie Street View.',
+  inactiveHint: 'Vyberte tento widget pre aktiváciu, potom kliknite na mapu.',
   noMapHint: 'V nastaveniach widgetu vyberte mapu.'
 }
