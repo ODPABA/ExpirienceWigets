@@ -5,19 +5,19 @@
   "version": "1.0.0",
   "exbVersion": "1.15.0",
   "author": "Custom",
-  "description": "Po kliknutí do mapy otvorí Google Street View v novom okne. Súradnice transformuje na WGS84 vrátane EPSG:5514 (S-JTSK / Krovak East North) a EPSG:8353 (S-JTSK JTSK03). Bez nastavení.",
+  "description": "Po kliknuti do mapy otvori Google Street View v novom okne. Transformacia na WGS84 vratane EPSG:5514 (Krovak East North) a EPSG:8353 (JTSK03).",
   "copyright": "",
   "license": "http://www.apache.org/licenses/LICENSE-2.0",
   "properties": {
-    "hasSettingPage": false,
+    "hasSettingPage": true,
     "hasEmbeddedLayout": false
   },
   "dependency": [
     "jimu-arcgis"
   ],
   "defaultSize": {
-    "width": 240,
-    "height": 110
+    "width": 260,
+    "height": 130
   },
   "translatedLocales": [
     "en",
